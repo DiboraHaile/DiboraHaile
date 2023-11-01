@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 👋 About Me
 
 Hello there! I'm Dibora, a passionate data engineer on a mission to turn raw data into meaningful insights. With a love for both coding and the intricate dance of data, I thrive in the dynamic world of turning information into knowledge.
